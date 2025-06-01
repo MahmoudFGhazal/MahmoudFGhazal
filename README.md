@@ -2,10 +2,6 @@
 
 - 🔭 Atualmente Estou Trabalhando com **Projetos Autorais**
 
-- 🌱 Atualmente Estou Aprendendo **GDScript**
-
-- 💬 Me Pergunte Sobre **Java, SQL, Python, Excel e Godot**
-
 - 📫 Meu E-mail **mahmoud.f.ghazal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
