@@ -1,4 +1,4 @@
-<h1 align="center">Prazer 👋, Eu sou um Programador Backend e Desenvolvedor de Jogos</h1>
+<h1 align="center">Prazer 👋, Eu sou um Programador Backend e Frontend</h1>
 
 - 🔭 Atualmente Estou Trabalhando com **Projetos Autorais**
 
