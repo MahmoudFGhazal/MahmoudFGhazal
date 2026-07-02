@@ -51,8 +51,8 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://cdn.simpleicons.org/oracle/F80000" width="40" height="40"/>
+  <a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
   </a>
 </p>
 
